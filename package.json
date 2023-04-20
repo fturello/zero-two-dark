@@ -1,0 +1,22 @@
+{
+	"name": "zero-two-dark",
+	"displayName": "zero two dark",
+	"description": "custom dark theme",
+	"version": "0.0.1",
+	"publisher": "fture",
+	"engines": {
+		"vscode": "^1.77.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "zero two dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/zero two dark-color-theme.json"
+			}
+		]
+	}
+}
