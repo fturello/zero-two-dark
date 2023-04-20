@@ -4,6 +4,20 @@
 	"description": "custom dark theme",
 	"version": "0.0.1",
 	"publisher": "fture",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/fturello/zero-two-dark"
+	},
+	"keywords": [
+		"theme",
+		"dark",
+		"dark theme",
+		"zero two",
+		"darling in the franxx",
+		"fture",
+		"fturello",
+		"mydeo"
+	],
 	"engines": {
 		"vscode": "^1.77.0"
 	},
